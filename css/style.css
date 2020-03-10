@@ -4717,7 +4717,10 @@ footer {
     background: url(../images/common_in_all/ftr_bg.png) no-repeat center top;
     padding: 145px 0px 0px;
     background-size: cover;
+	
 }
+
+
 footer h6 {
     font-size: 22px;
     color: #d5d5d5;
@@ -6131,7 +6134,7 @@ all and (min-width: 1280px) and (-webkit-transform-3d) {
     /*====Footer start=====*/
     
     footer {
-        background: url(../images/common_in_all/footer_mobile_bg.png) no-repeat scroll center top;
+        background: url(../images/common_in_all/ftr_bg.png) no-repeat scroll center top;
         padding: 152px 0 0;
     }
     .ftr_pad_30 {
