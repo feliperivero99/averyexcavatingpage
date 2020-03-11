@@ -1962,7 +1962,7 @@ a.view-all.slide_contact_btn.slide_service_btn.get_quote_btn {
 ***********************************/
 
 .year_quality {
-    font-size: 40px;
+    font-size: 25px;
     color: #494949;
     font-family: 'Alegreya', serif;
     font-weight: 700;
@@ -1972,7 +1972,7 @@ a.view-all.slide_contact_btn.slide_service_btn.get_quote_btn {
     padding-right: 37px;
     line-height: 48px;
     float: left;
-    width: 38.5%;
+    width: 58.5%;
 }
 .year_quality .year_35 {
     font-size: 60px;
@@ -1981,7 +1981,7 @@ a.view-all.slide_contact_btn.slide_service_btn.get_quote_btn {
     color: #94b200;
 }
 .quality-txt {
-    width: 58.5%;
+    width: 38.5%;
     float: right;
     margin: 16px 0px 14px;
 }
