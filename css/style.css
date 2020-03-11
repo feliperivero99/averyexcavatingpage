@@ -58,6 +58,12 @@ Version: 1.0.0
 	border:0;
 }
 
+.carousel-inner{
+	
+	height: 645px;
+	
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
     background: #fff;
