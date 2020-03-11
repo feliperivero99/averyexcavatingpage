@@ -43,6 +43,21 @@ Version: 1.0.0
 --01-GLOBAL STYLE START---
 ***********************************/
 
+.logoHeader{
+	
+	width: 19%; 
+	margin:0px; 
+	/*padding-top:1em;*/
+	
+}
+
+.tamanoMapa{
+	
+	width: 100%;
+	height:460px;
+	border:0;
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
     background: #fff;
@@ -7101,3 +7116,6 @@ all and (min-width: 1280px) and (-webkit-transform-3d) {
     .pp_details { width: 100%!important; padding-left: 3%; padding-right: 4%; padding-top: 10px; padding-bottom: 10px; background-color: #fff; margin-top: -2px!important; }
     a.pp_close { right: 7%!important; top: 10px!important; }
 }
+
+
+
