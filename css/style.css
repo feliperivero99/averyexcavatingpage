@@ -1041,11 +1041,11 @@ a.var5_request_btn {
 }
 #minimal-bootstrap-carousel .carousel-inner .slide-1
 {
-    background-image: url("../images/home_page/home_slider_img1.jpg");
+    background-image: url("../images/home_page/home_slider_img-1.jpg");
 }
 #minimal-bootstrap-carousel .carousel-inner .slide-2
 {
-    background-image: url("../images/home_page/home_slider_img1.jpg");
+    background-image: url("../images/home_page/home_slider_img-2.jpg");
 }
 #minimal-bootstrap-carousel .carousel-control {
     width: 40px;
@@ -7053,6 +7053,20 @@ all and (min-width: 1280px) and (-webkit-transform-3d) {
             margin: 0px!important;
         }
     }
+	
+	@media only screen(min-height: 1200px) {
+		
+		#minimal-bootstrap-carousel .carousel-inner .item {
+			height: 625px;
+			
+			width: 100%;
+			background-size: cover;
+			background-position: center center;
+			background-color: #1E1E1E;
+			
+		}
+	}
+	
     @media(max-width: 767px) {
         .button {
             margin: 0 25% 30px 25%;
