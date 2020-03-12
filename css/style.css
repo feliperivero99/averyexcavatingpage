@@ -7030,6 +7030,11 @@ all and (min-width: 1280px) and (-webkit-transform-3d) {
     .var_4_slider {
         width: 100% !important;
     }
+	
+	
+
+	
+	
     @media only screen and (min-width: 260px) and (max-width: 479px) {
         #member_slider .controls {
             margin-bottom: 20px;
@@ -7054,18 +7059,7 @@ all and (min-width: 1280px) and (-webkit-transform-3d) {
         }
     }
 	
-	@media only screen(min-height: 1200px) {
-		
-		#minimal-bootstrap-carousel .carousel-inner .item {
-			height: 625px;
-			
-			width: 100%;
-			background-size: cover;
-			background-position: center center;
-			background-color: #1E1E1E;
-			
-		}
-	}
+
 	
     @media(max-width: 767px) {
         .button {
@@ -7117,7 +7111,7 @@ all and (min-width: 1280px) and (-webkit-transform-3d) {
     }
 
 
-
+	
 
 /*
 * prettyphoto responsive
