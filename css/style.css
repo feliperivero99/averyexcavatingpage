@@ -1045,7 +1045,7 @@ a.var5_request_btn {
 }
 #minimal-bootstrap-carousel .carousel-inner .slide-2
 {
-    background-image: url("../images/home_page/home_slider_img-22.jpg");
+    background-image: url("../images/home_page/home_slider_img-2.jpg");
 }
 #minimal-bootstrap-carousel .carousel-control {
     width: 40px;
@@ -1113,6 +1113,7 @@ a.var5_request_btn {
     margin-bottom: 11px;
     -webkit-animation-delay: .5s;
     animation-delay: .5s;
+	text-shadow: 2px 2px 5px #000000;
 }
 #minimal-bootstrap-carousel .carousel-caption p {
     font-size: 20px;
@@ -1124,6 +1125,7 @@ a.var5_request_btn {
     margin-bottom: 29px;
     -webkit-animation-delay: 1s;
     animation-delay: 1s;
+	text-shadow: 2px 2px 5px #000000;
 }
 a.view-all.slide_contact_btn {
     color: #7c6f1c;
