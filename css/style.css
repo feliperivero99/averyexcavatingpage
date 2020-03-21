@@ -497,8 +497,9 @@ a:focus {
     font-size: 14px;
 }
 .hdr_top_bar {
-    background: #33381e;
+    background: #1f1303;
     padding: 8px 0px 9px;
+	font-family: 'Alegreya', serif;
 }
 .hdr_top_bar.hdr_top_bar_var2 {
     background: rgba(0, 0, 0, .4);
@@ -511,11 +512,14 @@ a:focus {
     margin-bottom: 7px;
 }
 .landing_gardening_txt {
-    font-size: 18px;
+    /*font-size: 18px;
+	font-style: italic;*/
     color: #7f9a48;
-    font-style: italic;
     float: left;
     margin: 3px 0px;
+	font-size: 20px;
+	/*color: #d5d5d5;*/
+	font-weight: 700;
 }
 .landing_gardening_txt.land_garden_txtvar2 {
     color: #fff;
@@ -530,9 +534,9 @@ a:focus {
 }
 .hdr_cnt ul li {
     float: left;
-    font-size: 18px;
-    font-weight: 400;
-    font-style: italic;
+    font-size: 20px;
+    font-weight: 700;
+    /*font-style: italic;*/
     color: #abb488;
     margin-right: 28px;
     line-height: 29px;
