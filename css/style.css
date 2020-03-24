@@ -3603,12 +3603,6 @@ ul.tags_list li a:hover {
     color: #9fc612;
     text-decoration: underline;
 }
-
-.subTituloblog a:hover{
-	color: #404040!important;
-	text-decoration: none!important;
-}
-
 .blog_img {
     width: 100%;
     float: left;
