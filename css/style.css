@@ -698,7 +698,7 @@ a:focus {
     transition: all 300ms ease-in-out;
 }
 #main-navigation-wrapper .nav > li a.nav_drop_ar:after {
-    background: rgba(0, 0, 0, 0) url(../images/common_in_all/nav_dropar.png) no-repeat scroll center bottom;
+    /*background: rgba(0, 0, 0, 0) url(../images/common_in_all/nav_dropar.png) no-repeat scroll center bottom;*/
     content: "";
     height: 6px;
     right: 2px;
@@ -747,7 +747,7 @@ a:focus {
     color: #7da309;
 }
 #main-navigation-wrapper .nav > li a.nav_drop_ar:hover:after {
-    background: rgba(0, 0, 0, 0) url("../images/common_in_all/nav_dropar_hover.png") no-repeat scroll center bottom;
+    /*background: rgba(0, 0, 0, 0) url("../images/common_in_all/nav_dropar_hover.png") no-repeat scroll center bottom;*/
 }
 #main-navigation-wrapper .navbar-nav > li > .dropdown-submenu {
     position: absolute;
